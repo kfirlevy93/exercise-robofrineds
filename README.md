@@ -1,10 +1,7 @@
-# exercise-robofrineds
-app that you can search your robot friends ;)
+# robofriends
+Tutorial for React
+To run the project:
 
-run git clone #
-
-run npm install
-
-run npm start
-
-:)
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
